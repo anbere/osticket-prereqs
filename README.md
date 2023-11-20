@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
     * Start by finding and clicking on "Internet Information Services", then continue to make sure every highlighted option is checked on your machine.
 
-![image](https://github.com/anbere/osticket-prereqs/assets/90169033/59c28795-d9f9-42cd-b758-e6ac174bea07)
+![image](https://github.com/anbere/osticket-prereqs/assets/90169033/081adac5-7b32-4a08-b75d-cb07a17836fa)
+
 
 </p>
 <p>
